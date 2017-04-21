@@ -1,0 +1,19 @@
+/*@import url(http://awebfont.ir/css?id=1116);*/
+body{
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  background-color: #000;
+  font-family: 'B Yekan', Tahoma, Arial;
+  direction: rtl;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+.btn-dark{
+  background-color:rgb(148, 230, 127);
+  color:#000;
+  margin-top:40px;
+  font-family: 'B Yekan', Tahoma, Arial;
+}

@@ -1,0 +1,13 @@
+@font-face{font-family:'B Yekan';src:local('☺'),local('B Yekan'),url(../fonts/683a5dddcff7f1cbb08d964cc275cb50ce7840291901931.woff) format('woff');font-weight:400;font-style:normal}
+@media(min-width: 992px) {
+    .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+        float: right;
+    }
+}
+.tooltip {
+    font-family: 'B Yekan', tahoma, Arial;
+}
+
+.ltr {
+    direction: ltr;
+}
