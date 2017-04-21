@@ -1,2 +1,2 @@
 # UTSec96
-UTSec contest spring 1396
+Website and Judge for UTSec contest spring 1396
